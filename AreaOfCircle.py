@@ -1,6 +1,6 @@
 # Author: Ji Bing Ni
 # It is not okay to share my code for anonymously for educational purposes
-
+# Kattis Week-1
 import math
 def main():
  
