@@ -1,5 +1,6 @@
 # Author: Ji Bing Ni
 # It is not ok to share my code anonymously for educational purposes
+# Kattis Week-2
 
 # import sys for better memory usage
 import sys
