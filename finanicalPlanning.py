@@ -1,7 +1,6 @@
 # Author: Ji Bing Ni
 # It is not ok to share my code anonymously for educational purposes
 
-# https://chat.openai.com/share/27b98738-885b-4280-98ba-d8957f6c88ee - chatgpt history
 
 # import sys for better memory usage
 import sys

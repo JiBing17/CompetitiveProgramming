@@ -1,7 +1,6 @@
 # Author: Ji Bing Ni
 # It is not ok to share my code anonymously for educational purposes
 
-# https://chat.openai.com/share/55c5b6e5-e1bc-4802-b3b5-45a9176a2a74 - link to chat history
 
 # import sys for better memory usage
 import sys

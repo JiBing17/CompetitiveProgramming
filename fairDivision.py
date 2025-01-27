@@ -1,7 +1,6 @@
 # Author: Ji Bing Ni
 # It is not ok to share my code anonymously for educational purposes
 
-#  https://chat.openai.com/share/9712686d-aeb9-4f1c-a994-51da22866816 - link to chat history
 
 import sys 
 
